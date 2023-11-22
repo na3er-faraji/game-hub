@@ -19,7 +19,9 @@ function App() {
         </GridItem>
       </Show>
 
-      <GridItem area="main">Main</GridItem>
+      <GridItem area="main" bg="burlywood">
+        Main
+      </GridItem>
     </Grid>
   );
 }
